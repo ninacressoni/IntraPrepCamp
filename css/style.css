@@ -1,0 +1,42 @@
+.logo-img {
+    width: 50px;
+}
+
+#loginButton{
+    color: black;
+}
+
+html {
+    background-color: #fff;
+}
+
+.navbar {
+    background-color: #fff;
+}
+
+.chooseQuiz {
+    padding-left: 10%;
+}
+
+.chooseQuiz span {
+    color: #E62E00;
+}
+
+.quizName {
+    color: #E62E00;
+}
+
+.programs {
+    background-color: #E3E3E3;
+    padding-top: 120px;
+    padding-bottom: 50px;
+}
+
+.programs img {
+    width: 100px;
+    line-height: 10%;
+}
+
+.footer a {
+    color: #E62E00;
+}

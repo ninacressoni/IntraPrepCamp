@@ -1,12 +1,12 @@
 {
-  "name": "intraPrepCamp",
+  "name": "intraprepcamp",
   "version": "1.0.0",
   "description": "Intra Preparation Camp is a web app for people to test their knowledge on programming languages for interviews and personal development",
   "main": "index.js",
   "scripts": {
+    "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "type": "git",
-    "url": "git+https://github.com/ninacressoni/IntraPrepCamp.git"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,11 @@
     "url": "https://github.com/ninacressoni/IntraPrepCamp/issues"
   },
   "homepage": "https://github.com/ninacressoni/IntraPrepCamp#readme",
-  "devDependencies": {
-    "lite-server": "^2.2.2"
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
 }
