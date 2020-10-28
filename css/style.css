@@ -40,3 +40,16 @@ html {
 .footer a {
     color: #E62E00;
 }
+
+.jumbotron{
+    padding-top: 10%;
+    background-color: #fff;
+}
+
+.jumbotron h2 {
+    padding-top: 25%;
+}
+
+.jumbotron img {
+    padding-top: 5%;
+}
