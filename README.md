@@ -5,7 +5,7 @@
 A **WEB APP** to prepare yourself for interviews as well as to test your knowledge on the given programming languages
 and its frameworks and libraries.
 
-A fun and easy way to be ready to take the next steps, mastering every detail of the language by taking *quizzes* 
+A fun and easy way to get ready to take the next steps, mastering every detail of the language by taking *quizzes* 
 and tracking how far you've come and still can go.
 
 Make youself more comfortable in your next interview as well as personal goals.
